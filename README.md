@@ -20,7 +20,8 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning **Terraform**
 
 <h3 align="left">Pojects are available at: <a href="https://github.com/Jayalakshmi-i/CI-CD" target="blank">Click Here</a></h3>
-  
+<p>Please do checking for more updates!!🌟 </p>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left"> 
