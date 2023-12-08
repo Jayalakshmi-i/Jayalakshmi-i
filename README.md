@@ -18,8 +18,11 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I’m currently working on **simple Hands-On Projects**
 
 - 🌱 I’m currently learning **Terraform**
+
+<h3 align="left">Pojects are available at: <a href="https://github.com/Jayalakshmi-i/CI-CD" target="blank">Click Here</a></h3>
   
 <h3 align="left">Connect with me:</h3>
+
 <p align="left"> 
 <a href="https://www.linkedin.com/in/jayalakshmi-i/" target="blank"> <img align=center src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="jayalakshmi-i" width="40" height="40"/></a>
 </p>
