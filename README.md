@@ -5,23 +5,24 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Jayalakshmi</h1>
 <h3 align="center">A passionate AWS DevOps from India</h3>
 
-<div align="center">
-  <img height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"  />
+<img align="right" height="250" alt="coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"  />
+
+
+
+
+<div>
+<h3 align="left">👩‍💻  About Me</h3>
 </div>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-- 🔭 I’m currently working on **simple Hands-On Projcts**
+- 🔭 I’m currently working on **simple Hands-On Projects**
 
 - 🌱 I’m currently learning **Terraform**
   
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashutosh mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+<p align="left"> 
+<a href="https://www.linkedin.com/in/jayalakshmi-i/" target="blank"> <img align=center src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="jayalakshmi-i" width="40" height="40"/> </a>
+  
+<a href="https://www.instagram.com/j.jayalakshmi/" target="_____blank"> <img align="center" src="https://cdn.pixabay.com/photo/2021/06/15/12/17/instagram-6338401_1280.png" alt="j.jayalakshmi" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">🛠Languages and Tools:</h3>
