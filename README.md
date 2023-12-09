@@ -24,10 +24,10 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me <a href="https://www.linkedin.com/in/jayalakshmi-i/" target="blank">Linked Profile</a>
 - **⚡** Fun Fact I ❤️ to do graphic designs <a href="https://linktr.ee/jayalakshmi_i" target="blank">linktr.ee/jayalakshmi_i</a>
 
-<h3 align="left">Pojects are available at: <a href="https://github.com/Jayalakshmi-i/CI-CD" target="blank">Click Here</a></h3>
+<h3 align="left">📂 Projects are available at: <a href="https://github.com/Jayalakshmi-i/CI-CD" target="blank">Click Here</a></h3>
 
 
-<h3 align="left">🛠Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
   <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -44,5 +44,5 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
 </div>
-
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayalakshmi-i&show_icons=true&locale=en&layout=compact" alt="jayalakshmi-i" /></p>
