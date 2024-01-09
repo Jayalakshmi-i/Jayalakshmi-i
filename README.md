@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Simple Hands-On Projects**
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **Kubernetes**
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me <a href="https://www.linkedin.com/in/jayalakshmi-i/" target="blank">Linked Profile</a>
 - **⚡** Fun Fact I ❤️ to do graphic designs <a href="https://linktr.ee/jayalakshmi_i" target="blank">linktr.ee/jayalakshmi_i</a>
@@ -40,6 +40,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" height="40" alt="jenkins logo"  />
+  <img width="12" />
+   <img src="https://www.veritis.com/wp-content/uploads/2015/06/Terraform-main-image.jpg" height="40" alt="Terraform logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
