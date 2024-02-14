@@ -29,10 +29,9 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
-  <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
+  <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="40" alt="linux"  />
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="40" alt="amazonwebservices logo"  />
+  <img width="5" />
   <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" height="40" alt="git logo"  />
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
