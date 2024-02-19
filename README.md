@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Simple Hands-On Projects**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Prometheus and Grafana**
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me <a href="https://www.linkedin.com/in/jayalakshmi-i/" target="blank">Linked Profile</a>
 - **⚡** Fun Fact I ❤️ to do graphic designs <a href="https://linktr.ee/jayalakshmi_i" target="blank">linktr.ee/jayalakshmi_i</a>
@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
   <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="40" alt="linux"  />
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/amazon_aws_logo_icon_168666.png" height="40" alt="amazonwebservices logo"  />
   <img width="5" />
   <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" height="40" alt="git logo"  />
   <img width="12" />  
