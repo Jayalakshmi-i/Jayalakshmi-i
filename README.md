@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Simple Hands-On Projects**
 
-- 🌱 I’m currently learning **Prometheus and Grafana**
+- 🌱 I’m currently learning **Prometheus and Grafana tools**
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me <a href="https://www.linkedin.com/in/jayalakshmi-i/" target="blank">Linked Profile</a>
 - **⚡** Fun Fact I ❤️ to do graphic designs <a href="https://linktr.ee/jayalakshmi_i" target="blank">linktr.ee/jayalakshmi_i</a>
