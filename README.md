@@ -31,9 +31,9 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
   <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="40" alt="linux"  />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/amazon_aws_logo_icon_168666.png" height="40" alt="amazonwebservices logo"  />
-  <img width="5" />
-  <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" height="40" alt="git logo"  />
-  <img width="12" />  
+  <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-16-1175195.png?f=webp" height="55" alt="git logo"  />
+  <img width="10" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins logo"  />
