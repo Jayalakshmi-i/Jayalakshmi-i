@@ -29,20 +29,22 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
-  <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="40" alt="linux"  />
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/amazon_aws_logo_icon_168666.png" height="40" alt="amazonwebservices logo"  />
+  <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="50" alt="linux"  />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/amazon_aws_logo_icon_168666.png" height="50" alt="amazonwebservices logo"  />
+  <img width="9" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-16-1175195.png?f=webp" height="65" alt="git"  />
+  <img width="10" />
+   <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" height="50" alt="github"  />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-16-1175195.png?f=webp" height="55" alt="git logo"  />
-  <img width="10" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="50" alt="docker logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins logo"  />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="50" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" height="40" alt="jenkins logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" height="50" alt="jenkins logo"  />
   <img width="12" />
-   <img src="https://www.veritis.com/wp-content/uploads/2015/06/Terraform-main-image.jpg" height="40" alt="Terraform logo"  />
+   <img src="https://www.veritis.com/wp-content/uploads/2015/06/Terraform-main-image.jpg" height="50" alt="Terraform logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo"  />
   <img width="12" />
 </div>
 <br>
