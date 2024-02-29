@@ -2,7 +2,6 @@
 Jayalakshmi-i/Jayalakshmi-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Github Banner(1)](https://github.com/Jayalakshmi-i/Jayalakshmi-i/assets/141424247/8e9ec7ae-10bb-4c75-b154-d8b65a83d689)
 ![Github Banner(2)](https://github.com/Jayalakshmi-i/Jayalakshmi-i/assets/141424247/fa9770d6-355f-4e7c-8daa-2fd5be38061b)
 
 
