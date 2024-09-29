@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Jayalakshmi</h1>
-<h3 align="center">A passionate AWS & DevOps from India</h3>
+<h3 align="center">A passionate AWS & DevOps Engineer from India</h3>
 
 <img align="right" height="250" alt="coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"  />
 
@@ -18,8 +18,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">👩‍💻  About Me</h3>
 </div>
 
-- 🔭 I’m currently working on **Simple Hands-On Projects using AWS services**
-- 🌱 I’m currently refreshing **AWS services**
+- 🔭 I’m currently working on **Hands-On DevOps Projects**
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me <a href="https://www.linkedin.com/in/jayalakshmi-i/" target="blank">Linked Profile</a>
 - **⚡** Fun Fact I ❤️ to do graphic designs <a href="https://linktr.ee/jayalakshmi_i" target="blank">linktr.ee/jayalakshmi_i</a>
